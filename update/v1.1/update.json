@@ -1,1 +1,7 @@
-
+{
+    "version": "v1.1",
+    "replace": [
+        "DocxMaker.exe",
+        "version.txt"
+    ]
+}
