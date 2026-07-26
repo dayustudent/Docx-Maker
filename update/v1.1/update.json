@@ -1,6 +1,7 @@
 {
     "version": "v1.1",
-    "add": [
-        "test/t.txt"
+    "remove": [
+        "test/t.txt",
+        "test"
     ]
 }
