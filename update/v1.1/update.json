@@ -1,7 +1,7 @@
 {
     "version": "v1.1",
     "replace": [
-        "version.txt"
+        "config.ini"
     ],
     "add": [
         "v1.1"
