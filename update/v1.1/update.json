@@ -1,9 +1,6 @@
 {
     "version": "v1.1",
-    "replace": [
-        "config.ini"
-    ],
     "add": [
-        "v1.1"
+        "test/t.txt"
     ]
 }
