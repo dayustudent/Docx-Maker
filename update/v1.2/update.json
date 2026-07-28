@@ -1,3 +1,15 @@
 {
   "version": "v1.2",
+  "update": [
+        {
+            "download_url":{
+                "github":"https://github.com/dayustudent/Docx-Maker/releases/download/v1.2/DocxMaker.exe",
+                "gitee":"https://gitee.com/dayustudent/Docx-Maker/releases/download/v1.2/DocxMaker.exe"
+            },
+            "local_path":"DocxMaker.exe"
+        }
+    ],
+  "replace":[
+    "README.txt"
+  ]
 }
