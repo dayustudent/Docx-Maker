@@ -1,6 +1,6 @@
 {
     "version": "v1.1",
-    "add": [
-        "test/t.txt"
+    "replace": [
+        "DocxMaker.exe"
     ]
 }
